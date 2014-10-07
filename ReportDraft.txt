@@ -1,0 +1,36 @@
+
+Detecting uncertainty in a requirements specification
+
+Requirements are often stated in a tentative or speculative manner, and imply uncertainty. What are the speculative and ambiguous words in a requirements document? How to detect the uncertainty?
+
+
+
+
+?Topic analysis (background knowledge)(开头)
+o Background introduction to the key concepts of the essay (please find the keywords from the topic) 
+
+o Emergent issues/questions associated with the keywords 
+
+o Importance of these issues/questions
+
+
+?Issue/Question discussion(主体)
+o Clarification of the issue/question to be discussed in the essay 
+
+o Presentation of the research on processes, methods, techniques,
+algorithms, models or tools that is relevant to the issue/question (this is a review of articles you collected). Please focus on one aspect (i.e. the process, the relevant techniques, or other aspects) to present the literature reviewed. 
+
+o Group’s own analysis and discussion. The discussion can be your own evaluation of the research done by others, e.g. can we practically apply the presented technique (or process, or algorithm, etc.) in the requirements development and management practice? If yes, how (example or experimentation)? If no, why? Any improvement? other related techniques?
+
+
+?Conclusion(结尾)
+
+
+
+
+5.	Before start preparing for the group work report a 10-min presentation of the group work plan shall be given on Oct. 9 or Oct. 14. The work plan presentation shall include the following issues
+?	The problem(s)/research question(s) to be dealt in the group work
+?	Scope of the group work
+?	Articles collected, with a very brief explanation of the relevance
+?	Division of the work
+?	Tentative outline of the report
